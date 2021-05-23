@@ -1,0 +1,18 @@
+{
+    "discord": {
+        "owners": [
+            "693329961016229918"
+        ],
+        "prefix": [
+            "k!",
+            "k."
+        ],
+        "token": "ODQ1NjQwMjIyNTYxMDA5NzE1.YKj51A.tiVPzAU9EDPr_T9gWj6XVcMRrQM"
+    },
+    "mangadex": {
+        "account": {
+            "username": "",
+            "password": ""
+        }
+    }
+}
